@@ -1,0 +1,21 @@
+html {
+  font-size: 24px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: 'Indie Flower', cursive;
+  background-color: grey;
+}
+h1 {margin: 0;
+  padding: 20px 0;    
+  color: #1C548B;
+  text-shadow: 3px 3px 1px white;
+  font-size: 60px;
+  text-align: center;
+  background-color: black;
+}
+li,a,p {font-size: 24px;
+	text-align: center;
+te}
+ img{
+ 	border: 5px solid black;
+ 	display: block;
+    margin: 0 auto;
+ }
